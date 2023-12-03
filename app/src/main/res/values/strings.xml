@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application5</string>
+
+    <string-array name="game1">
+        <item>Taş</item>
+        <item>Kağıt</item>
+        <item>Makas</item>
+    </string-array>
+</resources>
